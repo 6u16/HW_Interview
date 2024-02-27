@@ -1,0 +1,5 @@
+email
+smtplib
+imaplib
+email.MIMEText MIMEText
+email.MIMEMultipart MIMEMultipart
